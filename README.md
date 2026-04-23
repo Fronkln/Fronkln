@@ -8,5 +8,4 @@ align="center"
 <p>
   <img src="https://github-readme-stats-red-pi.vercel.app/api?username=Fronkln&show_icons=true&include_all_commits=true">
   <img src="https://github-readme-stats-red-pi.vercel.app/api/top-langs/?username=Fronkln&layout=compact">
-  <img src="https://github-profile-trophy.vercel.app/?username=fronkln&theme=darkhub">
 </p>
